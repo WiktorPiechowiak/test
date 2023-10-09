@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "346ejZ/amPg0+wv/j7OxXl3Nccx1lAQUf/Ml9Za8N2fBxcyI7mamz/WnwQDN/f0RaYes3Zl9qy6yiETW/kAv5w==",
+  "success": true,
+  "projectFilePath": "/home/mao/Documents/vscode/c#/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/mao/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/mao/Documents/vscode/c#/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/home/mao/Documents/vscode/c#/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/mao/Documents/vscode/c#/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/home/mao/Documents/vscode/c#/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/home/mao/Documents/vscode/c#/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/home/mao/Documents/vscode/c#/test/bin/Debug/net7.0/test
+/home/mao/Documents/vscode/c#/test/bin/Debug/net7.0/test.deps.json
+/home/mao/Documents/vscode/c#/test/bin/Debug/net7.0/test.runtimeconfig.json
+/home/mao/Documents/vscode/c#/test/bin/Debug/net7.0/test.dll
+/home/mao/Documents/vscode/c#/test/bin/Debug/net7.0/test.pdb
+/home/mao/Documents/vscode/c#/test/obj/Debug/net7.0/test.dll
+/home/mao/Documents/vscode/c#/test/obj/Debug/net7.0/refint/test.dll
+/home/mao/Documents/vscode/c#/test/obj/Debug/net7.0/test.pdb
+/home/mao/Documents/vscode/c#/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/home/mao/Documents/vscode/c#/test/obj/Debug/net7.0/ref/test.dll
